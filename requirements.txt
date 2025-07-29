@@ -1,6 +1,7 @@
-streamlit
-yfinance
+numpy==1.24.4
 pandas
-numpy
+scikit-learn
 statsmodels
+matplotlib
 pmdarima==1.8.5
+streamlit
